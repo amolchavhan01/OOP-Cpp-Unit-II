@@ -1,7 +1,7 @@
 # OOP-Cpp-Unit-II
 C++ Programming Activity
 Student Details
-Student Name: Amol Chavan 
+Student Name: Amol Chavhan 
 ZPRN: 125UAD1374
 Class/Division: SY-E 
 Course Name: Object Oriented Programming using C++
